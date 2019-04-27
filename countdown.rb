@@ -4,6 +4,5 @@ def countdown(i)
     i -= 1
     break if i = 0
     puts "HAPPY NEW YEAR!"
-    end
   end
 end
